@@ -1,2 +1,2 @@
 # datasciencecoursera
-for the coursera data science tooblox course
+for the coursera data science toolbox course
